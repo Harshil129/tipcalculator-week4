@@ -2,7 +2,7 @@
 
 //create variables to store info 
 
-$submit = filter_input(INPUT_POST, 'submit'); 
+$submit = filter_input(INPUT
 
 //create a function to calculate the tip percentage and return 
 function tipCalculate($total, $percentage){       
